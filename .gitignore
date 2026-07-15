@@ -1,0 +1,42 @@
+# Expo
+.expo/
+dist/
+npm-debug.*
+
+# Node
+node_modules/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+build/
+.next/
+out/
+
+# Mobile
+.gradle/
+local.properties
+debug.keystore
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+.turbo/
